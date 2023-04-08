@@ -1,4 +1,4 @@
-const port = 8080
+const port = process.env.PORT || 8080
 const express = require('express')
 const server = express()
 server.get('/',(req,res) => {

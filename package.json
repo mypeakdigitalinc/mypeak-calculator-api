@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "",
     "start": "nodemon index.js"
   },
   "author": "Joel Tecson",
